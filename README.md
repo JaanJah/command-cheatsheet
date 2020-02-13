@@ -1,2 +1,4 @@
 # command-cheatsheet
-WIP: Cheat sheet for commands I might forget.
+
+# Table of Contents
+1. [`sh`](sh/README.md)
