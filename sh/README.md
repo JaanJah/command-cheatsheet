@@ -1,7 +1,7 @@
 # `sh` Cheat sheet
 
 # Table of Contents
-1. [`time`](Show-how-much-time-it-took-to-run-a-command)
+1. [`time`](#Show-how-much-time-it-took-to-run-a-command)
 
 ## Show how much time it took to run a command
 `time <COMMAND>`
